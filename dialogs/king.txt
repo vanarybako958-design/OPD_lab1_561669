@@ -1,0 +1,4 @@
+Brave knight, save my lands from the invaders!
+CHOICE: Refuse -- “Oh woe! Without your help, our kingdom will fall!”
+CHOICE: Accept -- “Oh, thank you, brave knight!”
+
